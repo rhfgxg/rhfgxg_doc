@@ -1,5 +1,5 @@
 ## 安装 Windows+Ubuntu 双系统
-1. [22.04版本](ubuntu 22.04.4安装 (Ubuntu, windows双系统, 实体安装).md)
+1. [22.04版本](ubuntu 22.04.4安装 (Ubuntu, windows双系统, 实体安装))
 
 ## 初始配置
 ### 初始化 root 用户密码
